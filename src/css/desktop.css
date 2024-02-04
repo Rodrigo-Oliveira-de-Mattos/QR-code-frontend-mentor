@@ -1,0 +1,6 @@
+@media only screen and (min-width: 600px) {
+    .container{
+        transition: 1s;
+        transform: scale(1.6);
+    }
+}
